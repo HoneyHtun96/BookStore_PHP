@@ -1,0 +1,7 @@
+html='<tr><td colspan=3>'+photo+'</td></tr>'+
+            '<tr><td></td><td>Description</td><td>'+description+'</td></tr>'+
+            '<tr><td></td><td>Name</td><td>'+name+'</td></tr>'+
+            '<tr><td></td><td>Author</td><td>'+author+'</td></tr>'+
+            '<tr><td></td><td>Category</td><td>'+category+'</td></tr>'+
+            '<tr><td></td><td>Lendprice</td><td>'+price+'</td></tr>'+
+            '<tr><td></td><td>Quantity</td><td>'+quantity+'</td></tr>';
